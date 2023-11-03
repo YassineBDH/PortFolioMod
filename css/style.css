@@ -43,7 +43,10 @@ nav a:hover{
     color: #24C6FB;
     border-bottom: solid #24C6FB;
 }
-
+.active{
+    color: #24C6FB;
+    border-bottom: solid #24C6FB;
+}
 .logo{
     width: 17rem;
     height: auto;
@@ -160,6 +163,9 @@ span {
     text-align: center;
     font-size: 4.5rem;
     margin: 2rem;
+}
+.projets{
+    background-color: #e4c08b;
 }
 
 h1{
@@ -472,4 +478,8 @@ h1{
 }
 .btn:hover{
     box-shadow: none;
+}
+.contact{
+    background-color: #e4c08b;
+
 }
